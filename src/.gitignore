@@ -1,0 +1,13 @@
+bench_logs/
+build/
+data/
+model/**/*.zip
+model/**/*.om
+model/**/*.onnx
+out/
+*.zip
+*.om
+*.onnx
+!model/yolov8s.om
+!model/yolov8s_static.om
+out_0.jpg

@@ -1,0 +1,1 @@
+{"modelId":"ID2034531553598947328","modelVersion":"V8","trainingModel":1,"modelType":"YOLO","version":"V1.0.0","categoryName":"YOLOv8Seg测试","packageType":4,"gpuInfo":"Ascend310B1","modelName":"seg_310B","parentName":"test","modelCode":"test_111004169933","authority":1,"modelPicName":"封面1750217915341.jpeg"}

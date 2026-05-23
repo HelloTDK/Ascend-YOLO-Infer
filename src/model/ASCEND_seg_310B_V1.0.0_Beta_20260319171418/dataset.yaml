@@ -1,0 +1,15 @@
+path: ../data/train/1a70b5ef65b250a13c3736d32400ab17/1a70b5ef65b250a13c3736d32400ab17
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: person
+training_mode: 1
+imgsz: 640
+chinese_names:
+- person
+colors:
+- - 6
+  - 6
+  - 248
+is_coco: 0
